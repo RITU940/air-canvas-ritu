@@ -90,16 +90,7 @@ python air_canvas_mediapipe.py
 
 ---
 
-## Show it on LinkedIn (template)
-> 🚀 Built an **Air Canvas** with Python + OpenCV (and MediaPipe)!  
-> I can draw in the air using my fingertip—no touchscreen needed.  
-> **What I learned:** HSV color masking, contour detection, hand landmarks, and real-time video processing.  
-> **Tech:** Python, OpenCV, MediaPipe  
-> 🎥 Demo attached | 💻 Code in comments
 
-Tip: Record with **OBS** or **Xbox Game Bar** (Win: `Win + G`), trim, and post.
-
-Good luck & have fun!
 =======
 # air-canvas-ritu
 >>>>>>> 19ac56c1076a4e2ec2c3610909aedb095258571b
