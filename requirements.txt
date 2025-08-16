@@ -1,0 +1,4 @@
+opencv-python
+numpy
+# For the advanced (optional) hand-tracking version:
+mediapipe
