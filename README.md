@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Air Canvas (Beginner Friendly)
 
 Draw in the air using your webcam. Two ways:
@@ -99,3 +100,6 @@ python air_canvas_mediapipe.py
 Tip: Record with **OBS** or **Xbox Game Bar** (Win: `Win + G`), trim, and post.
 
 Good luck & have fun!
+=======
+# air-canvas-ritu
+>>>>>>> 19ac56c1076a4e2ec2c3610909aedb095258571b
