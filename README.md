@@ -8,8 +8,8 @@ Draw in the air using your webcam. Two ways:
 ---
 
 ## 1) Install Python & VS Code
-- Install Python 3.9+ from https://python.org (tick "Add Python to PATH" on Windows).
-- Install VS Code from https://code.visualstudio.com
+- Install Python 3.9+
+- Install VS Code 
 
 ## 2) Get the code
 Download this repo as a zip and extract, or `git clone` if you upload it to GitHub.
